@@ -1,0 +1,1 @@
+"Retail Customer Segmentation Analysis project for the OIBSIP Data Analytics internship." Objective: Analyze customer purchasing behavior and segment customers into distinct groups using clustering techniques. Identify valuable customer segments and recommend targeted marketing strategies. Tools used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, and Jupyter Notebook.
