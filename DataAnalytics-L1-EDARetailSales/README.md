@@ -1,0 +1,1 @@
+"Retail Sales EDA project for the OIBSIP Data Analytics internship. Objective. Analyze retail sales data to identify sales trends, customer patterns, and useful business insights. Tools used Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
